@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 0d1dd87a41842884bac16481d4fd8892
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IPAD_NOTE_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 794
+        width: 237
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.131165, y: -95.72833}
+        - {x: -17.987183, y: -91.47131}
+        - {x: -61.50934, y: -63.026855}
+        - {x: -78.77728, y: -23.805054}
+        - {x: -71.07147, y: 24.411377}
+        - {x: -49.532715, y: 59.7334}
+        - {x: -8.382141, y: 87.25903}
+        - {x: 42.36313, y: 77.4986}
+        - {x: 71.73044, y: 58.236267}
+        - {x: 90.548065, y: 18.199707}
+        - {x: 97.98282, y: -23.609192}
+        - {x: 76.22168, y: -69.0152}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 59ee51e10beb3da40ac4c9e05a71273c
+      internalID: -1887495807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 785
+        width: 215
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.032043, y: -69.44214}
+        - {x: 2.0570068, y: -94.583984}
+        - {x: -46.56775, y: -77.98895}
+        - {x: -83.24725, y: -52.874146}
+        - {x: -96.90021, y: -13.676392}
+        - {x: -94.45105, y: 23.38385}
+        - {x: -79.50348, y: 62.736267}
+        - {x: -39.927856, y: 89.411255}
+        - {x: 6.7404785, y: 97.924866}
+        - {x: 52.239197, y: 79.20416}
+        - {x: 87.63141, y: 37.73236}
+        - {x: 88.50104, y: -2.725586}
+        - {x: 74.69537, y: -40.56195}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: cc83ae241cead4845b7e83f73e688b41
+      internalID: -873049921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 782
+        width: 216
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.43744, y: -90.43213}
+        - {x: -7.6379395, y: -94.671936}
+        - {x: -54.63025, y: -79.27753}
+        - {x: -86.99182, y: -39.05609}
+        - {x: -101.49664, y: 6.877014}
+        - {x: -88.22302, y: 49.66443}
+        - {x: -57.050293, y: 88.19531}
+        - {x: -6.836914, y: 98.876526}
+        - {x: 40.315125, y: 91.05646}
+        - {x: 77.686584, y: 62.745056}
+        - {x: 93.75897, y: 21.434204}
+        - {x: 86.94147, y: -21.869019}
+        - {x: 67.20709, y: -63.00934}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: c6335e6622d3d9b4ba4e9ceb05415cd2
+      internalID: 768426329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 531
+        width: 239
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.99968, y: -94.34143}
+        - {x: -3.227707, y: -103.15277}
+        - {x: -51.677277, y: -87.87146}
+        - {x: -86.98302, y: -58.029785}
+        - {x: -97.55856, y: -16.8667}
+        - {x: -98.737274, y: 25.055481}
+        - {x: -84.57267, y: 57.227722}
+        - {x: -52.550262, y: 88.683655}
+        - {x: -9.332611, y: 102.583496}
+        - {x: 40.99373, y: 96.82068}
+        - {x: 71.75734, y: 74.548645}
+        - {x: 89.67195, y: 45.268433}
+        - {x: 105.669464, y: 6.890991}
+        - {x: 94.77513, y: -38.305664}
+        - {x: 77.69534, y: -70.00641}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b9ddf0c521994099d743c6d763462
+      internalID: 141125819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 529
+        width: 229
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.21512, y: -95.19928}
+        - {x: -21.04184, y: -105.800354}
+        - {x: -68.858826, y: -76.32733}
+        - {x: -102.462524, y: -45.05609}
+        - {x: -113.483, y: 9.919373}
+        - {x: -99.5806, y: 57.730957}
+        - {x: -60.544403, y: 88.18359}
+        - {x: -13.919189, y: 108}
+        - {x: 37.88629, y: 105.5}
+        - {x: 67.069214, y: 80.76056}
+        - {x: 86.16904, y: 46.26544}
+        - {x: 99.91153, y: 8.713257}
+        - {x: 94.4574, y: -36.63684}
+        - {x: 77.186554, y: -70.50641}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff1bdd423ab184cb2850336a978b22
+      internalID: -1255324806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 526
+        width: 247
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.060547, y: -110}
+        - {x: -56.3479, y: -97.656006}
+        - {x: -94.965515, y: -72.50055}
+        - {x: -109.85663, y: -32.560913}
+        - {x: -116.93262, y: 16.15564}
+        - {x: -101.128784, y: 54.982666}
+        - {x: -77.00055, y: 87.68652}
+        - {x: -37.407715, y: 110}
+        - {x: 18.778748, y: 110}
+        - {x: 58.586426, y: 93.91437}
+        - {x: 86.180664, y: 68.22455}
+        - {x: 101.576904, y: 31.148132}
+        - {x: 111.86072, y: -9.965759}
+        - {x: 98.41925, y: -54.8479}
+        - {x: 53.245056, y: -97.950806}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84c050dfea31c74891607cec934ba9c
+      internalID: -41326204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_6
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 522
+        width: 238
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.52069, y: -112.98755}
+        - {x: -31.639954, y: -117.5}
+        - {x: -71.0094, y: -87.97717}
+        - {x: -100.31366, y: -58.180054}
+        - {x: -118.46692, y: -13.015869}
+        - {x: -111.27777, y: 31.180298}
+        - {x: -97.956665, y: 70.71289}
+        - {x: -58.409363, y: 98.9577}
+        - {x: -5.3112793, y: 115.287415}
+        - {x: 42.544495, y: 106.51819}
+        - {x: 77.20123, y: 81.19238}
+        - {x: 103.97742, y: 40.89966}
+        - {x: 114.157166, y: -1.6916504}
+        - {x: 101.799255, y: -54.373413}
+        - {x: 71.21283, y: -93.965454}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20dbf0793556ff4bbe508260aa964de
+      internalID: -1662485067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 269
+        width: 243
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.636505, y: -115.292145}
+        - {x: -19.983177, y: -117.5}
+        - {x: -70.521034, y: -93.97128}
+        - {x: -103.4088, y: -59.658325}
+        - {x: -114.34486, y: -16.713257}
+        - {x: -109.9309, y: 31.41217}
+        - {x: -91.4801, y: 75.19824}
+        - {x: -57.858994, y: 107.27258}
+        - {x: -4.855736, y: 117.5}
+        - {x: 50.395065, y: 101.04602}
+        - {x: 76.19241, y: 69.20996}
+        - {x: 100.45148, y: 24.531128}
+        - {x: 104.90938, y: -11.434814}
+        - {x: 97.29602, y: -52.712036}
+        - {x: 73.19826, y: -87.98297}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b366d34b9f2374a8ef68e20113b952
+      internalID: -1168723943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 263
+        width: 243
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.748077, y: -113.71591}
+        - {x: -13.838379, y: -119.5}
+        - {x: -62.349, y: -104.26218}
+        - {x: -98.965485, y: -76.49759}
+        - {x: -115.939514, y: -34.93338}
+        - {x: -113.9776, y: 15.818115}
+        - {x: -99.61035, y: 62.6597}
+        - {x: -75.01224, y: 97.16318}
+        - {x: -30.756927, y: 119.5}
+        - {x: 22.756622, y: 116.114624}
+        - {x: 62.556854, y: 94.31354}
+        - {x: 91.16318, y: 67.22168}
+        - {x: 105.1889, y: 28.731384}
+        - {x: 110.45157, y: -16.075684}
+        - {x: 98.35379, y: -56.11075}
+        - {x: 77.68948, y: -91.468414}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fddfacf7f8f27741865dac58537b7c0
+      internalID: 1257845809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 261
+        width: 247
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.983276, y: -120.5}
+        - {x: -35.20166, y: -120.5}
+        - {x: -81.00458, y: -92.706604}
+        - {x: -110.43921, y: -56.035645}
+        - {x: -118.86389, y: -9.548126}
+        - {x: -118.33502, y: 43.782867}
+        - {x: -93.971375, y: 80.19824}
+        - {x: -56.415527, y: 105.91263}
+        - {x: -5.501831, y: 120.5}
+        - {x: 45.275208, y: 113.64438}
+        - {x: 82.683655, y: 84.68948}
+        - {x: 102.76306, y: 48.258606}
+        - {x: 113.58789, y: -1.2608948}
+        - {x: 105.65027, y: -50.358337}
+        - {x: 85.677795, y: -96.456665}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7942b0e192acc4cb4fd55da007f93b
+      internalID: 1430613729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IPAD_NOTE_10
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 258
+        width: 243
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.099854, y: -119.73593}
+        - {x: -19.963379, y: -118.06781}
+        - {x: -68.15112, y: -100.58951}
+        - {x: -103.450806, y: -64.5152}
+        - {x: -118.38013, y: -29.19226}
+        - {x: -121.5, y: 25.185577}
+        - {x: -103.60657, y: 61.119324}
+        - {x: -70.51514, y: 98.66608}
+        - {x: -35.235657, y: 121.5}
+        - {x: 23.16919, y: 121.5}
+        - {x: 69.60895, y: 108.88733}
+        - {x: 98.65442, y: 76.20993}
+        - {x: 116.53223, y: 22.78601}
+        - {x: 112.92993, y: -26.06607}
+        - {x: 101.266235, y: -64.22943}
+        - {x: 76.19824, y: -94.456665}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf216653f767054e85715dfade5ac33
+      internalID: -1855435805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e4415e786c1ab849a6c84f8a06db79b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IPAD_NOTE_0: -1887495807
+      IPAD_NOTE_4: -1255324806
+      IPAD_NOTE_2: 768426329
+      IPAD_NOTE_10: -1855435805
+      IPAD_NOTE_1: -873049921
+      IPAD_NOTE_8: 1257845809
+      IPAD_NOTE_3: 141125819
+      IPAD_NOTE_5: -41326204
+      IPAD_NOTE_7: -1168723943
+      IPAD_NOTE_9: 1430613729
+      IPAD_NOTE_6: -1662485067
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
